@@ -27,7 +27,7 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
       </div>
     </td>
       <td width="10%">
-      <h3 align="center">TELECOM</h3>
+      <h3 align="center">Interconnect</h3>
       <div align="center">
         <a href="#" target="_blank">
           <img src="https://github.com/user-attachments/assets/9652df5f-47b8-4f44-9f81-e8af1d7060ba" width="400" alt="Financial Fraud"> 
