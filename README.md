@@ -6,7 +6,7 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
 ## Proyectos 
 <table>
   <tr>
-    <td width="30%">
+    <td width="10%">
       <h3 align="center">Financial Fraud Detection</h3>
       <div align="center">
         <a href="#" target="_blank">
@@ -26,7 +26,7 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
         <p>💼En este desafiante proyecto, nos enfrentamos a una base de datos masiva de seis millones de transacciones. Nuestra tarea principal es construir un modelo de machine learning capaz de identificar transacciones fraudulentas, ¡y solo contamos con el 0.1% de                   datos etiquetados como fraudulentos! 😱</p>
       </div>
     </td>
-      <td width="30%">
+      <td width="10%">
       <h3 align="center">TELECOM</h3>
       <div align="center">
         <a href="#" target="_blank">
@@ -46,7 +46,7 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
         <p>Al operador de telecomunicaciones Interconnect le gustaría poder pronosticar su tasa de cancelación de clientes 📉. Si se descubre que un usuario o usuaria planea irse 🏃‍♂️🏃‍♀️, se le ofrecerán códigos promocionales 🎟️ y opciones de planes especiales 🌟.</p>
       </div>
     </td>
-    <td width="30%">
+    <td width="10%">
       <h3 align="center">Dashboard</h3>
       <div align="center">
         <a href="" target="_blank">
