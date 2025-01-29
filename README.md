@@ -6,27 +6,18 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
 ## Proyectos 
 <table>
   <tr>
-    <td width="10%">
+    <td width="30%">
       <h3 align="center">Data analysis videogames store</h3>
       <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://github.com/digel1010/files/blob/main/Ice.jpg" width="400" height="400" alt="Financial Fraud"> 
-        </a>
         <p>
-          <a href="https://github.com/GabrielChavezC/Financial_Fraud_Detection" target="_blank">
-            <img src="https://img.shields.io/badge/GITHUB-f8f?style=for-the-badge&logo=github&logoColor=black">
-          </a>
           <a href="https://github.com/digel1010/Analisis-de-datos-en-tienda-de-videojuegos-Ice/blob/main/analisis%20de%20datos%20en%20tienda%20de%20videojuegos.ipynb" target="_blank">
             <img src="https://img.shields.io/badge/-CODE-green?style=for-the-badge&color=f8f">
           </a>
-           <a href="https://www.linkedin.com/feed/update/urn:li:activity:7201801202420830208/" target="_blank">
-            <img src="https://img.shields.io/badge/linkedin-f8f?style=for-the-badge&logo=linkedin&logoColor=black">
-          </a>
         </p>
-        <p>💼En este desafiante proyecto, nos enfrentamos a una base de datos masiva de seis millones de transacciones. Nuestra tarea principal es construir un modelo de machine learning capaz de identificar transacciones fraudulentas, ¡y solo contamos con el 0.1% de                   datos etiquetados como fraudulentos! 😱</p>
+        <p>💼Trabajas para la tienda online Ice que vende videojuegos por todo el mundo. Las reseñas de usuarios y expertos, los géneros, las plataformas (por ejemplo, Xbox o PlayStation) y los datos históricos sobre las ventas de juegos están disponibles en fuentes abiertas. Tienes que identificar patrones que determinen si un juego tiene éxito o no. Esto te permitirá detectar proyectos prometedores y planificar campañas publicitarias. 😱</p>
       </div>
     </td>
-      <td width="10%">
+      <td width="30%">
       <h3 align="center">Interconnect</h3>
       <div align="center">
         <a href="#" target="_blank">
