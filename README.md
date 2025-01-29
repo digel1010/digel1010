@@ -10,7 +10,7 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
       <h3 align="center">Data analysis videogames store</h3>
       <div align="center">
         <a href="#" target="_blank">
-          <img src="https://i.postimg.cc/BvxyRpHJ/fraude.png" width="400" alt="Financial Fraud"> 
+          <img src="https://github.com/digel1010/files/blob/main/Ice.jpg" width="400" height="400" alt="Financial Fraud"> 
         </a>
         <p>
           <a href="https://github.com/GabrielChavezC/Financial_Fraud_Detection" target="_blank">
@@ -30,7 +30,7 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
       <h3 align="center">Interconnect</h3>
       <div align="center">
         <a href="#" target="_blank">
-          <img src="https://github.com/digel1010/files/blob/main/Interconnect.jpg" width="400" alt="Financial Fraud"> 
+          <img src="https://github.com/digel1010/files/blob/main/Interconnect.jpg" width="400" height="400" alt="Financial Fraud"> 
         </a>
         <p>
           <a href="##" target="_blank">
