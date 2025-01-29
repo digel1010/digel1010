@@ -33,7 +33,7 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
         <p>Al operador de telecomunicaciones Interconnect le gustaría poder pronosticar su tasa de cancelación de clientes 📉. Si se descubre que un usuario o usuaria planea irse 🏃‍♂️🏃‍♀️, se le ofrecerán códigos promocionales 🎟️ y opciones de planes especiales 🌟.</p>
       </div>
     </td>
-    <td width="10%">
+    <td width="30%">
       <h3 align="center">Dashboard</h3>
       <div align="center">
         <a href="" target="_blank">
