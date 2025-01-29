@@ -75,7 +75,6 @@ Contacto:
 
 
 
-## Proyectos Destacados: Machine learning
 
 ## Proyectos Destacados: Machine Learning
 
