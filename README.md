@@ -33,7 +33,7 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
           <img src="https://github.com/digel1010/files/blob/main/Interconnect.jpg" width="400" alt="Financial Fraud"> 
         </a>
         <p>
-          <a href="https://gabrielchavezc.github.io/projects/telecom_proyect.html" target="_blank">
+          <a href="https://github.com/digel1010/Analisis-de-datos-en-tienda-de-videojuegos-Ice/blob/main/analisis%20de%20datos%20en%20tienda%20de%20videojuegos.ipynb" target="_blank">
             <img src="https://img.shields.io/badge/-CODE-green?style=for-the-badge&color=000080">
         </p>
         <p>Al operador de telecomunicaciones Interconnect le gustaría poder pronosticar su tasa de cancelación de clientes 📉. Si se descubre que un usuario o usuaria planea irse 🏃‍♂️🏃‍♀️, se le ofrecerán códigos promocionales 🎟️ y opciones de planes especiales 🌟.</p>
