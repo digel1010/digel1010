@@ -1,5 +1,6 @@
 ## ✍️ About Me:
 ¡Hola! Soy Diego, Tecnólogo Electromecánico con un fuerte interés en la ciencia de datos y el análisis de datos. 🛠️📊
+
 Mi formación en tecnología electromecánica y mi experiencia en la gestión de operaciones me han proporcionado una base sólida para abordar desafíos técnicos y analíticos. En los últimos tiempos, he enfocado mi desarrollo profesional en el mundo de la ciencia de datos, adquiriendo experiencia en herramientas como Python, Machine Learning, SQL y visualización de datos con Matplotlib y Seaborn. Mi objetivo es seguir creciendo en este campo, aplicando mis conocimientos para resolver problemas complejos y aportar soluciones basadas en datos. 🌟
 
 Habilidades Técnicas
