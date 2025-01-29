@@ -9,6 +9,9 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
     <td width="30%">
       <h3 align="center">Data analysis videogames store</h3>
       <div align="center">
+         <a href="#" target="_blank">
+          <img src="https://github.com/digel1010/files/blob/main/Ice.jpg" width="400" height="400" alt="Financial Fraud"> 
+        </a>
         <p>
           <a href="https://github.com/digel1010/Analisis-de-datos-en-tienda-de-videojuegos-Ice/blob/main/analisis%20de%20datos%20en%20tienda%20de%20videojuegos.ipynb" target="_blank">
             <img src="https://img.shields.io/badge/-CODE-green?style=for-the-badge&color=f8f">
