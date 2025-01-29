@@ -17,7 +17,7 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
             <img src="https://img.shields.io/badge/-CODE-green?style=for-the-badge&color=f8f">
           </a>
         </p>
-        <p>💼Trabajas para la tienda online Ice que vende videojuegos por todo el mundo. Las reseñas de usuarios y expertos, los géneros, las plataformas (por ejemplo, Xbox o PlayStation) y los datos históricos sobre las ventas de juegos están disponibles en fuentes abiertas. Tienes que identificar patrones que determinen si un juego tiene éxito o no. Esto te permitirá detectar proyectos prometedores y planificar campañas publicitarias. 😱</p>
+        <p>💼Trabajas para la tienda online Ice que vende videojuegos por todo el mundo. Las reseñas de usuarios y expertos, los géneros, las plataformas (por ejemplo, Xbox o PlayStation) y los datos históricos sobre las ventas de juegos están disponibles en fuentes abiertas. Tienes que identificar patrones que determinen si un juego tiene éxito o no. Esto te permitirá detectar proyectos prometedores y planificar campañas publicitarias. </p>
       </div>
     </td>
       <td width="30%">
@@ -27,7 +27,7 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
           <img src="https://github.com/digel1010/files/blob/main/Interconnect.jpg" width="400" height="400" alt="Financial Fraud"> 
         </a>
         <p>
-          <a href="##" target="_blank">
+          <a href="https://github.com/digel1010/Interconnect/blob/main/interconnect%20project.ipynb" target="_blank">
             <img src="https://img.shields.io/badge/-CODE-green?style=for-the-badge&color=000080">
         </p>
         <p>Al operador de telecomunicaciones Interconnect le gustaría poder pronosticar su tasa de cancelación de clientes 📉. Si se descubre que un usuario o usuaria planea irse 🏃‍♂️🏃‍♀️, se le ofrecerán códigos promocionales 🎟️ y opciones de planes especiales 🌟.</p>
