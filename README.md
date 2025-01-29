@@ -7,7 +7,7 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
 <table>
   <tr>
     <td width="10%">
-      <h3 align="center">Financial Fraud Detection</h3>
+      <h3 align="center">Data analysis videogames store</h3>
       <div align="center">
         <a href="#" target="_blank">
           <img src="https://i.postimg.cc/BvxyRpHJ/fraude.png" width="400" alt="Financial Fraud"> 
@@ -16,7 +16,7 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
           <a href="https://github.com/GabrielChavezC/Financial_Fraud_Detection" target="_blank">
             <img src="https://img.shields.io/badge/GITHUB-f8f?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <a href="https://github.com/GabrielChavezC/Financial_Fraud_Detection/blob/main/Plantilla_Financial_Fraud_Detection.ipynb" target="_blank">
+          <a href="https://github.com/digel1010/Analisis-de-datos-en-tienda-de-videojuegos-Ice/blob/main/analisis%20de%20datos%20en%20tienda%20de%20videojuegos.ipynb" target="_blank">
             <img src="https://img.shields.io/badge/-CODE-green?style=for-the-badge&color=f8f">
           </a>
            <a href="https://www.linkedin.com/feed/update/urn:li:activity:7201801202420830208/" target="_blank">
@@ -33,7 +33,7 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
           <img src="https://github.com/digel1010/files/blob/main/Interconnect.jpg" width="400" alt="Financial Fraud"> 
         </a>
         <p>
-          <a href="https://github.com/digel1010/Analisis-de-datos-en-tienda-de-videojuegos-Ice/blob/main/analisis%20de%20datos%20en%20tienda%20de%20videojuegos.ipynb" target="_blank">
+          <a href="##" target="_blank">
             <img src="https://img.shields.io/badge/-CODE-green?style=for-the-badge&color=000080">
         </p>
         <p>Al operador de telecomunicaciones Interconnect le gustaría poder pronosticar su tasa de cancelación de clientes 📉. Si se descubre que un usuario o usuaria planea irse 🏃‍♂️🏃‍♀️, se le ofrecerán códigos promocionales 🎟️ y opciones de planes especiales 🌟.</p>
