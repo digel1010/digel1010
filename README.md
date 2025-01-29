@@ -13,6 +13,7 @@ He adquirido experiencia en Python, Pandas y en la implementación de modelos de
 Mi objetivo es seguir creciendo en el mundo de la ciencia de datos, aplicando la experiencia que he adquirido para resolver problemas complejos y mejorar la eficiencia en diversos sectores. Quiero contribuir a proyectos innovadores que combinen el análisis de datos con soluciones técnicas, siempre con un enfoque centrado en el cliente y orientado a resultados. 🚀
 
 Contacto:
+
 💼 LinkedIn: Tu Nombre en LinkedIn
 
 🌐 Portafolio: [Enlace a tu portafolio o proyectos]
