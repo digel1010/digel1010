@@ -72,3 +72,16 @@ Contacto:
     </td>
   </tr>
 </table>
+
+
+## Proyectos Destacados2
+
+| Proyecto | Imagen | Descripción | Enlace |
+|----------|--------|-------------|--------|
+| **Análisis Predictivo** | ![Análisis Predictivo](https://github.com/digel1010/files/blob/main/Ice.jpg) | Desarrollo de modelos de Machine Learning para predecir fallos en maquinaria y optimizar el mantenimiento preventivo. | [Repositorio](https://github.com/digel1010/Analisis-de-datos-en-tienda-de-videojuegos-Ice/blob/main/analisis%20de%20datos%20en%20tienda%20de%20videojuegos.ipynb) |
+| **Visualización de Datos** | ![Visualización de Datos](https://github.com/digel1010/files/blob/main/Interconnect.jpg) | Creación de dashboards interactivos para monitorear el rendimiento de procesos industriales. | [Repositorio](https://github.com/digel1010/Interconnect/blob/main/interconnect%20project.ipynb) |
+| **Automatización de Procesos** | ![Automatización de Procesos](https://via.placeholder.com/100) | Implementación de soluciones que integran tecnología electromecánica y análisis de datos para mejorar la eficiencia operativa. | [Repositorio](https://github.com/tu-usuario/automatizacion-procesos) |
+| **Análisis de Big Data** | ![Análisis de Big Data](https://via.placeholder.com/100) | Análisis y procesamiento de grandes volúmenes de datos usando técnicas de Machine Learning y algoritmos avanzados. | [Repositorio](https://github.com/tu-usuario/big-data) |
+| **Predicción de Tendencias de Mercado** | ![Predicción de Tendencias](https://via.placeholder.com/100) | Creación de modelos predictivos para predecir comportamientos de mercado utilizando algoritmos de clasificación. | [Repositorio](https://github.com/tu-usuario/prediccion-mercado) |
+
+---
