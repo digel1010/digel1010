@@ -18,77 +18,10 @@ Contacto:
 
 🌐 Portafolio: [Enlace a tu portafolio o proyectos]
 
-## Proyectos destacados
-<table>
-  <tr>
-    <td width="30%">
-      <h3 align="center">Data analysis videogames store</h3>
-      <div align="center">
-         <a href="#" target="_blank">
-          <img src="https://github.com/digel1010/files/blob/main/Ice.jpg" width="400" height="400" alt="Financial Fraud"> 
-        </a>
-        <p>
-          <a href="https://github.com/digel1010/Analisis-de-datos-en-tienda-de-videojuegos-Ice/blob/main/analisis%20de%20datos%20en%20tienda%20de%20videojuegos.ipynb" target="_blank">
-            <img src="https://img.shields.io/badge/-CODE-green?style=for-the-badge&color=f8f">
-          </a>
-        </p>
-        <p>💼Trabajas para la tienda online Ice que vende videojuegos por todo el mundo. Las reseñas de usuarios y expertos, los géneros, las plataformas (por ejemplo, Xbox o PlayStation) y los datos históricos sobre las ventas de juegos están disponibles en fuentes abiertas. Tienes que identificar patrones que determinen si un juego tiene éxito o no. Esto te permitirá detectar proyectos prometedores y planificar campañas publicitarias. </p>
-      </div>
-    </td>
-      <td width="30%">
-      <h3 align="center">Interconnect</h3>
-      <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://github.com/digel1010/files/blob/main/Interconnect.jpg" width="400" height="400" alt="Financial Fraud"> 
-        </a>
-        <p>
-          <a href="https://github.com/digel1010/Interconnect/blob/main/interconnect%20project.ipynb" target="_blank">
-            <img src="https://img.shields.io/badge/-CODE-green?style=for-the-badge&color=000080">
-        </p>
-        <p>Al operador de telecomunicaciones Interconnect le gustaría poder pronosticar su tasa de cancelación de clientes 📉. Si se descubre que un usuario o usuaria planea irse 🏃‍♂️🏃‍♀️, se le ofrecerán códigos promocionales 🎟️ y opciones de planes especiales 🌟.</p>
-      </div>
-    </td>
-    <td width="30%">
-      <h3 align="center">Dashboard</h3>
-      <div align="center">
-        <a href="" target="_blank">
-          <img src="https://github.com/user-attachments/assets/f2bef59b-7f4b-4613-8629-eb529ce8691a" width="400" alt="img">
-        </a>
-        <p>
-          <a href="https://dash-store-brazil-analytics.streamlit.app/" target="_blank">
-            <img src="https://img.shields.io/badge/APP-80ffaa?style=for-the-badge&logo=webpack&logoColor=black">
-          </a>
-          <a href="https://github.com/GabrielChavezC/store_sales_interactive" target="_blank">
-            <img src="https://img.shields.io/badge/GITHUB-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-           <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/linkedin-80ffaa?style=for-the-badge&logo=linkedin&logoColor=black">
-          </a>
-        </p>
-        <p>Una tienda online de moda, con presencia en todo Brasil, necesita impulsar su rendimiento utilizando sus datos de manera estratégica. 🌟👗👠
-
-   Impulsa tu tienda usando un análisis de datos estratégicos 🔍💡📈</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-
-
 
 ## Proyectos Destacados: Machine Learning
 
-| **Proyecto** | **Proyecto** | **Proyecto** |  
-|--------------|--------------|--------------|  
-| **Interconnect** | **Sweet Lift Taxi** | **Predicción precio de autos usados** |  
-| <div align="center"><img src="https://github.com/digel1010/files/blob/main/Interconnect.jpg" width="150" /></div> | <div align="center"><img src="https://github.com/digel1010/files/blob/main/swift%20lift.jpg" width="150" /></div> | <div align="center"><img src="https://github.com/digel1010/files/blob/main/rusty%20bargain.jpg" width="150" /></div> |  
-| Modelo de Machine Learning 🤖 que pronostica la tasa de cancelación de clientes 📉 para el operador de telecomunicaciones Interconnect. Si se detecta que un usuario o usuaria planea cancelar el servicio 🏃‍♂️🏃‍♀️, se le ofrecerán códigos promocionales 🎟️ y planes especiales 🌟 para retenerlo. | Modelo de Machine Learning 🤖 que predice la cantidad de pedidos de taxis 🚖 a una hora determinada en un aeropuerto ✈️, con el fin de traer a más conductores 🚗 durante las horas pico ⏰. | Modelo de Machine Learning 🤖 que determina el valor de mercado 💰 de un vehículo 🚗, considerando variables como el historial 📝, especificaciones técnicas ⚙️, versiones de equipamiento 🛠️ y precios 💵, optimizando el tiempo de entrenamiento ⏱️ y la velocidad y calidad de la predicción del modelo 📊. |  
-| [Ver código](https://github.com/digel1010/Interconnect/blob/main/interconnect%20project.ipynb) | [Ver código](https://github.com/digel1010/prediccion-de-pedidos-de-taxis/blob/main/sweet.ipynb) | [Ver código](https://github.com/digel1010/prediccion-precio-de-autos-usados/blob/main/rusty.ipynb) |  
-
-
-## Proyectos Destacados: Machine Learning
-
-| **Proyecto** | **Proyecto** | **Proyecto** |  
+| **Company: Interconnect** | **Company: Sweet Lift Taxi** | **Company: Rusty Bargain** |  
 |--------------|--------------|--------------|  
 | **Interconnect** | **Sweet Lift Taxi** | **Predicción precio de autos usados** |  
 | <div align="center"><img src="https://github.com/digel1010/files/blob/main/Interconnect.jpg" width="150" /></div> | <div align="center"><img src="https://github.com/digel1010/files/blob/main/swift%20lift.jpg" width="150" /></div> | <div align="center"><img src="https://github.com/digel1010/files/blob/main/rusty%20bargain.jpg" width="150" /></div> |  
