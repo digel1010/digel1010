@@ -14,7 +14,7 @@ Mi objetivo es seguir creciendo en el mundo de la ciencia de datos, aplicando la
 
 Contacto:
 
-💼 LinkedIn: Tu Nombre en LinkedIn
+💼 LinkedIn: [Diego Gelvez 🔗](https://www.linkedin.com/in/diego-gelvez-811b57271/?locale=es_ES) 
 
 🌐 Portafolio: [Enlace a tu portafolio o proyectos]
 
