@@ -16,10 +16,11 @@ Contacto:
 
 💼 LinkedIn: [Diego Gelvez 🔗](https://www.linkedin.com/in/diego-gelvez-811b57271/) 
 
-🌐 Portafolio: [Enlace a tu portafolio o proyectos]
+🌐 Portafolio completo de proyectos: [Enlace a tu portafolio o proyectos]
 
+⬇️⬇️⬇️
 
-## Proyectos Destacados: Machine Learning
+## 🌟Proyectos Destacados🌟: Machine Learning
 
 | **Company: Interconnect** | **Company: Sweet L.Taxi** | **Company: Rusty B.** |  
 |--------------|--------------|--------------|  
@@ -31,7 +32,7 @@ Contacto:
 
 
 
-## Proyectos Destacados: Data Analysis
+## 🌟Proyectos Destacados🌟: Data Analysis
 
 | **Proyecto** | **Proyecto** | **Proyecto** |  
 |--------------|--------------|--------------|  
