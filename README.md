@@ -21,7 +21,7 @@ Contacto:
 
 ## Proyectos Destacados: Machine Learning
 
-| **Company: Interconnect** | **Company: Sweet Lift Taxi** | **Company: Rusty Bargain** |  
+| **Company: Interconnect** | **Company: Sweet L.Taxi** | **Company: Rusty B.** |  
 |--------------|--------------|--------------|  
 | <div align="center">**Modelo predictivo para la tasa de cancelación de clientes**</div> | <div align="center">**Modelo predictivo de la cantidad de pedidos de taxi**</div> | <div align="center">**Modelo predictivo del valor de mercado de un auto**</div> |  
 | <div align="center"><img src="https://github.com/digel1010/files/blob/main/Interconnect.jpg" width="150" /></div> | <div align="center"><img src="https://github.com/digel1010/files/blob/main/swift%20lift.jpg" width="150" /></div> | <div align="center"><img src="https://github.com/digel1010/files/blob/main/rusty%20bargain.jpg" width="150" /></div> |  
