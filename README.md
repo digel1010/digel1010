@@ -16,7 +16,7 @@ Contacto:
 
 💼 LinkedIn: [Diego Gelvez 🔗](https://www.linkedin.com/in/diego-gelvez-811b57271/) 
 
-🌐 Portafolio completo de proyectos: [Enlace a tu portafolio o proyectos]
+🌐 Portafolio completo de proyectos: [Portafolio](https://digel1010.github.io/)
 
 ⬇️⬇️⬇️
 
