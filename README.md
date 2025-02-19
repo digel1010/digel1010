@@ -1,4 +1,17 @@
+
+
+<div align="center">
+<h1 align="center">Hola, soy <a>Diego</a> 👋</h1>
+</div>
+<img src="https://github.com/digel1010/files/blob/main/Banner%20Diego.png">
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/dgelvez10)
+
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://digel1010.github.io/)
+
+
 ## ✍️ About Me:
+
 ¡Hola! Soy Diego, Tecnólogo Electromecánico con un fuerte interés en la ciencia de datos y el análisis de datos. 🛠️📊
 
 Mi formación en tecnología electromecánica y mi experiencia en la gestión de operaciones me han proporcionado una base sólida para abordar desafíos técnicos y analíticos. En los últimos tiempos, he enfocado mi desarrollo profesional en el mundo de la ciencia de datos, adquiriendo experiencia en herramientas como Python, Machine Learning, SQL y visualización de datos con Matplotlib y Seaborn. Mi objetivo es seguir creciendo en este campo, aplicando mis conocimientos para resolver problemas complejos y aportar soluciones basadas en datos. 🌟
@@ -14,9 +27,9 @@ Mi objetivo es seguir creciendo en el mundo de la ciencia de datos, aplicando la
 
 Contacto:
 
-💼 LinkedIn: [Diego Gelvez 🔗](https://www.linkedin.com/in/diego-gelvez-811b57271/) 
+📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://custom-icon-badges.demolab.com/badge/Diego_Gelvez-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/dgelvez10) LinkedIn: [Diego Gelvez 🔗](www.linkedin.com/in/dgelvez10) 
 
-🌐 Portafolio completo de proyectos: [Portafolio](https://digel1010.github.io/)
+🌐 Portafolio completo de proyectos: [![Portafolio](https://img.shields.io/badge/Portfolio-000?logo=ghost&logoColor=yellow)](https://digel1010.github.io/)
 
 ⬇️⬇️⬇️
 
