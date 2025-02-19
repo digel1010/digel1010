@@ -5,11 +5,11 @@
 </div>
 <img src="https://github.com/digel1010/files/blob/main/Banner%20Diego.png">
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/dgelvez10)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/dgelvez10)
 
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://digel1010.github.io/)
 
-
+---
 ## ✍️ About Me:
 
 ¡Hola! Soy Diego, Tecnólogo Electromecánico con un fuerte interés en la ciencia de datos y el análisis de datos. 🛠️📊
@@ -27,12 +27,28 @@ Mi objetivo es seguir creciendo en el mundo de la ciencia de datos, aplicando la
 
 Contacto:
 
-📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://custom-icon-badges.demolab.com/badge/Diego_Gelvez-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/dgelvez10) LinkedIn: [Diego Gelvez 🔗](www.linkedin.com/in/dgelvez10) 
+📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://custom-icon-badges.demolab.com/badge/Diego_Gelvez-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/dgelvez10) 
 
 🌐 Portafolio completo de proyectos: [![Portafolio](https://img.shields.io/badge/Portfolio-000?logo=ghost&logoColor=yellow)](https://digel1010.github.io/)
 
 ⬇️⬇️⬇️
+---
 
+## 🖥️🛠️ Lenguajes y herramientas :
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Microsoft_Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Power_BI](https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
 ## 🌟Proyectos Destacados🌟: Machine Learning
 
 | **Company: Interconnect** | **Company: Sweet L.Taxi** | **Company: Rusty B.** |  
