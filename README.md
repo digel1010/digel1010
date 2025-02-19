@@ -1,11 +1,18 @@
 <div align="center">
-<h1 align="center">Hola, soy <a>Diego</a> 👋</h1>
+  <h1 align="center">Hola, soy <a>Diego</a> 👋</h1>
+  <img src="https://github.com/digel1010/files/blob/main/Banner%20Diego.png" alt="Banner Diego">
+  
+  <!-- Contenedor para los badges -->
+  <div align="center">
+    <a href="https://www.linkedin.com/in/dgelvez10">
+      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/>
+    </a>
+    <a href="https://digel1010.github.io/">
+      <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" alt="Website"/>
+    </a>
+  </div>
+
 </div>
-<img src="https://github.com/digel1010/files/blob/main/Banner%20Diego.png">
-
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/dgelvez10)
-
-[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://digel1010.github.io/)
 
 ---
 ## ✍️ About Me:
