@@ -1,5 +1,3 @@
-
-
 <div align="center">
 <h1 align="center">Hola, soy <a>Diego</a> 👋</h1>
 </div>
@@ -49,7 +47,7 @@ Contacto:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
-## 🌟Proyectos Destacados🌟: Machine Learning
+# 🌟Proyectos Destacados🌟: Machine Learning
 
 | **Company: Interconnect** | **Company: Sweet L.Taxi** | **Company: Rusty B.** |  
 |--------------|--------------|--------------|  
@@ -61,7 +59,7 @@ Contacto:
 
 
 
-## 🌟Proyectos Destacados🌟: Data Analysis
+# 🌟Proyectos Destacados🌟: Data Analysis
 
 | **Company: Ice Videogames** | **Company: Megaline** | **Company: Insta-cart** |  
 |--------------|--------------|--------------|  
@@ -69,3 +67,20 @@ Contacto:
 | <div align="center"><img src="https://github.com/digel1010/files/blob/main/Ice.jpg" width="150" /></div> | <div align="center"><img src="https://github.com/digel1010/files/blob/main/megaline.jpg" width="150" /></div> | <div align="center"><img src="https://github.com/digel1010/files/blob/main/instacart.jpg" width="150" /></div> |  
 | Análisis de datos para una empresa de videojuegos 🎮 para identificar patrones que predicen el éxito de un título en el mercado global 🌍. El objetivo es proporcionar información clave para optimizar estrategias de marketing 📈 y desarrollo de productos 🛠️. El análisis permite identificar características clave que influyen en las ventas 💰 y la satisfacción del cliente 😊, además de evaluar el éxito de los juegos por región 🌎. | Análisis de datos para una empresa de telecomunicaciones 📱 para evaluar el rendimiento económico de sus tarifas de prepago Surf y Ultimate. El análisis examina el comportamiento de llamadas, mensajes e internet para determinar cuál tarifa genera mayores ingresos. Los resultados ofrecen insights clave para optimizar estrategias de marketing 💡 y ajustar presupuestos publicitarios 📊. | Análisis de datos de Instacart 🛒📊 para explorar los hábitos de compra de los clientes en la plataforma de entregas de comestibles. Este proyecto crea visualizaciones 📈 que muestran patrones clave de compra y prepara gráficos claros y detallados para comunicar los hallazgos. Los resultados proporcionan insights valiosos sobre las preferencias de los clientes 🛍️ para mejorar las estrategias de marketing 📣 y operaciones. |  
 | <div align="center"><a href="https://github.com/digel1010/TT-projects/blob/main/7%20da%20ice.ipynb"><img src="https://img.shields.io/badge/-CODE-blue" width="50" alt="Code" /></a></div> | <div align="center"><a href="https://github.com/digel1010/TT-projects/blob/main/5%20da%20mega.ipynb"><img src="https://img.shields.io/badge/-CODE-blue" width="50" alt="Code" /></a></div> | <div align="center"><a href="https://github.com/digel1010/TT-projects/blob/main/4%20da%20insta.ipynb"><img src="https://img.shields.io/badge/-CODE-blue" width="50" alt="Code" /></a></div> |  
+
+---
+## 📊🔥 GitHub Stats:
+
+<p align="center">
+<a href="#">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digel1010&theme=algolia&hide_progress=true"/>
+ 
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=digel1010&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+
+<p align="center">
+<a href="#">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=digel1010&theme=algolia&hide_border=false"/>
+</a>
+</p>
