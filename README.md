@@ -32,9 +32,9 @@ Mi objetivo es seguir creciendo en el mundo de la ciencia de datos, aplicando la
 
 Contacto:
 
-📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://custom-icon-badges.demolab.com/badge/Diego_Gelvez-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/dgelvez10) 
+📫 **¿Quieres contactar conmigo?** [![Linkedin Badge](https://custom-icon-badges.demolab.com/badge/Diego_Gelvez-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/dgelvez10) 
 
-🌐 Portafolio completo de proyectos: [![Portafolio](https://img.shields.io/badge/Portfolio-000?logo=ghost&logoColor=yellow)](https://digel1010.github.io/)
+🌐 **Portafolio completo de proyectos:** [![Portafolio](https://img.shields.io/badge/Portfolio-000?logo=ghost&logoColor=yellow)](https://digel1010.github.io/)
 
 ⬇️⬇️⬇️
 ---
